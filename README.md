@@ -41,3 +41,17 @@ python ./doctor.py             # preview the managed block
 python ./doctor.py --write     # write/update .gitignore (safe: preserves your custom content)
 python ./doctor.py --risks     # show tracked secrets/binaries
 python ./doctor.py --strict    # exit non-zero if risks found (great for CI)
+```
+
+---
+
+<p align="center">
+  <img
+    alt="gitignore-doctor visits"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fxryv.gitignore-doctor%2Fvisits&query=value&label=visits&color=00E5FF&labelColor=777&cacheSeconds=300"
+  />
+</p>
+
+<p align="center">
+  <sub>👣 If this number ticked, another dev just dropped by. Be the reason it moves again.</sub>
+</p>
