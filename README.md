@@ -45,13 +45,18 @@ python ./doctor.py --strict    # exit non-zero if risks found (great for CI)
 
 ---
 
+---
+
 <p align="center">
-  <img
-    alt="gitignore-doctor visits"
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fxryv.gitignore-doctor%2Fvisits&query=value&label=visits&color=00E5FF&labelColor=777&cacheSeconds=300"
-  />
+  <a href="https://hits.sh/github.com/xryv/gitignore-doctor/">
+    <img 
+      alt="gitignore-doctor visits"
+      src="https://hits.sh/github.com/xryv/gitignore-doctor.svg?label=visits&color=00E5FF&labelColor=777"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <sub>👣 If this number ticked, another dev just dropped by. Be the reason it moves again.</sub>
+  <sub>👣 Every tick = one curious dev. If it moved, someone else is learning with you.</sub>
 </p>
+
